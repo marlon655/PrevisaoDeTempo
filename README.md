@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # openweather
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# PrevisaoDeTempo
+>>>>>>> 4b3bc73bfef1729398f0a5006536b8d5d576753c
