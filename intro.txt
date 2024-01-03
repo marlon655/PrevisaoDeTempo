@@ -1,0 +1,8 @@
+Página de Previsão do Tempo.
+Esta plataforma foi cuidadosamente criada para fornecer uma visão clara e precisa das condições
+meteorológicas atuais e futuras. Se você está curioso para saber qual será o clima hoje, amanhã ou nos próximos dias,
+convido você a explorar esta página.
+Construída com base nas minhas habilidades em desenvolvimento web.
+A integração de tecnologias como Vue.js, Axios e Unorm permite que você desfrute de uma experiência reativa
+e informativa. Não apenas você receberá informações sobre temperatura e condições climáticas, mas também terá
+a oportunidade de descobrir como esses dados são manipulados nos bastidores.
